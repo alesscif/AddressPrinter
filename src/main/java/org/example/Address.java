@@ -40,11 +40,7 @@ public class Address {
         return apartmentNumber;
     }
 
-    public String getCityName()
-    public String getPostalCode() {
-        return postalCode;
-    }
-}{
+    public String getCityName() {
         return cityName;
     }
 
